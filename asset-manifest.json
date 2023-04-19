@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "//github.com/pamolowo.github.io/week-4-react/static/css/main.16b5ec09.css",
+    "main.js": "//github.com/pamolowo.github.io/week-4-react/static/js/main.e7882044.js",
+    "static/media/star_wars.jpg": "//github.com/pamolowo.github.io/week-4-react/static/media/star_wars.deff2a3e4761a9d51bb7.jpg",
+    "index.html": "//github.com/pamolowo.github.io/week-4-react/index.html",
+    "main.16b5ec09.css.map": "//github.com/pamolowo.github.io/week-4-react/static/css/main.16b5ec09.css.map",
+    "main.e7882044.js.map": "//github.com/pamolowo.github.io/week-4-react/static/js/main.e7882044.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16b5ec09.css",
+    "static/js/main.e7882044.js"
+  ]
+}
