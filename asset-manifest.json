@@ -1,14 +1,19 @@
 {
   "files": {
-    "main.css": "//github.com/pamolowo.github.io/week-4-react/static/css/main.16b5ec09.css",
-    "main.js": "//github.com/pamolowo.github.io/week-4-react/static/js/main.e7882044.js",
-    "static/media/star_wars.jpg": "//github.com/pamolowo.github.io/week-4-react/static/media/star_wars.deff2a3e4761a9d51bb7.jpg",
+    "main.css": "//github.com/pamolowo.github.io/week-4-react/static/css/main.56943345.css",
+    "main.js": "//github.com/pamolowo.github.io/week-4-react/static/js/main.c75b9182.js",
+    "static/media/movie-2.png": "//github.com/pamolowo.github.io/week-4-react/static/media/movie-2.de16d30483953f99eec7.png",
+    "static/media/movie-1.png": "//github.com/pamolowo.github.io/week-4-react/static/media/movie-1.9cc820fbb67246b25fc8.png",
+    "static/media/movie-6.png": "//github.com/pamolowo.github.io/week-4-react/static/media/movie-6.36b44c02360eecfe95f0.png",
+    "static/media/movie-5.png": "//github.com/pamolowo.github.io/week-4-react/static/media/movie-5.ba9cb521585a40309a37.png",
+    "static/media/movie-3.png": "//github.com/pamolowo.github.io/week-4-react/static/media/movie-3.9faf3a9530c1c5991c8a.png",
+    "static/media/movie-4.png": "//github.com/pamolowo.github.io/week-4-react/static/media/movie-4.c3e94ac1f790d40a222a.png",
     "index.html": "//github.com/pamolowo.github.io/week-4-react/index.html",
-    "main.16b5ec09.css.map": "//github.com/pamolowo.github.io/week-4-react/static/css/main.16b5ec09.css.map",
-    "main.e7882044.js.map": "//github.com/pamolowo.github.io/week-4-react/static/js/main.e7882044.js.map"
+    "main.56943345.css.map": "//github.com/pamolowo.github.io/week-4-react/static/css/main.56943345.css.map",
+    "main.c75b9182.js.map": "//github.com/pamolowo.github.io/week-4-react/static/js/main.c75b9182.js.map"
   },
   "entrypoints": [
-    "static/css/main.16b5ec09.css",
-    "static/js/main.e7882044.js"
+    "static/css/main.56943345.css",
+    "static/js/main.c75b9182.js"
   ]
 }
