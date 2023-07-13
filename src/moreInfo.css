@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Star Jedi", "Open Sans", sans-serif;
+}
+
+.main-body{
+    margin: 0px 130px;
+    padding-bottom: 20px;
+}
+
+.box{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    background-color: rgb(35, 35, 35);
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    padding: 30px;
+    border-radius: 5px;
+}
+
+.back{
+    text-decoration: none;
+    color: rgb(157, 157, 157);
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+.title-block{
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
+.title-block h2, .title-block p{
+    text-align: center;
+}
+
+.title-block h2{
+    font-size: 40px;
+    margin-bottom: 15px;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+
+.title-block p{
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.sub-head{
+    font-size: 18px;
+    color: rgb(157, 157, 157);
+    margin-bottom: 15px;
+    font-weight: 700;
+}
+
+.description{
+    margin-bottom: 30px;
+}
+
+.description p{
+    font-size: 16px;
+    letter-spacing: 0.2px;
+}
+
+.block{
+    margin-bottom: 30px;
+    padding-top: 30px;
+    border-top: 2px solid rgb(60, 60, 60);
+    font-size: 16px;
+}
+
+.character-list, .planet-list, .species-list, .starship-list, .vehicle-list{
+    padding: 0px 17px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.character-list li, .planet-list li, .starship-list li, .vehicle-list li{
+    width: 331px;
+    font-size: 16px;
+    height: 22px;
+}
+
+.species-list li{
+    width: 331px;
+}
+
+.not-found{
+    margin: 100px auto;
+}
+
+.not-found h1, .not-found p{
+    text-align: center;
+}
+
+.not-found h1{
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+
+.not-found-btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.not-found-btn button{
+    padding: 10px;
+    background-color: grey;
+    color: white;
+    font-size: 16px;
+
+}
