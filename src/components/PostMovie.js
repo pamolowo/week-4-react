@@ -77,7 +77,7 @@ const PostMovie = () => {
 
                   {/* <p>{item.characters}</p> */}
                   <hr></hr>
-                  <a href="#">More Info</a>
+                  <a href="#link">More Info</a>
                   </div>
                   </div>
                 
